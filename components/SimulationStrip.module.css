@@ -1,0 +1,20 @@
+.scroll {
+  overflow-x: auto;
+  padding: 19px;
+  border-radius: 0 0 18px 18px;
+  background: #dcecf0;
+}
+
+.track {
+  display: flex;
+  width: max-content;
+  min-height: 255px;
+  gap: 14px;
+}
+
+@media (max-width: 650px) {
+  .scroll {
+    margin: 0 -2px;
+    padding: 13px;
+  }
+}

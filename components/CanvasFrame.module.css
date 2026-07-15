@@ -1,0 +1,7 @@
+.canvas {
+  display: block;
+  border: 1px solid #c5d7db;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 3px 9px rgba(23, 50, 77, 0.08);
+}
